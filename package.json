@@ -1,0 +1,23 @@
+{
+  "name": "finxos-cli",
+  "version": "1.0.0",
+  "description": "Cli tools for finxos.",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/finxos-cli.git"
+  },
+  "keywords": [],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/finxos-cli/issues"
+  },
+  "homepage": "https://github.com/afeiship/finxos-cli#readme"
+}
