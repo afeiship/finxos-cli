@@ -27,5 +27,8 @@
     "ipic-tss-uploader": "git+ssh://git@gitlab.finxos.com:tu-editor/ipic-tss-uploader.git",
     "listr": "^0.14.3",
     "next-js-core2": "github:afeiship/next-js-core2"
+  },
+  "devDependencies": {
+    "rake-git": "github:afeiship/rake-git"
   }
 }
