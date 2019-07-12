@@ -6,6 +6,7 @@
 ```shell
 git clone https://github.com/afeiship/finxos-cli.git
 cd finxos-cli
+npm install
 npm link
 ```
 
