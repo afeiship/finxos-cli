@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/afeiship/finxos-cli">
-    <img src="http://ww3.sinaimg.cn/large/006tNc79gy1g4y5ioplxfj312009eacl.jpg">
+    <img src="http://ww2.sinaimg.cn/large/006tNc79gy1g4y5u28pngj319c09ogns.jpg">
   </a>
 </p>
 
