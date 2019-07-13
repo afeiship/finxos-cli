@@ -7,7 +7,7 @@
     "test": "test"
   },
   "bin": {
-    "tss-upload": "./src/upload.js"
+    "tss-cli": "bin/cmd.js"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,9 @@
     "globby": "^10.0.1",
     "ipic-tss-uploader": "git+ssh://git@gitlab.finxos.com:tu-editor/ipic-tss-uploader.git",
     "listr": "^0.14.3",
-    "next-js-core2": "github:afeiship/next-js-core2"
+    "next-js-core2": "github:afeiship/next-js-core2",
+    "require-dir": "^1.2.0",
+    "yargs": "^13.2.4"
   },
   "devDependencies": {
     "rake-git": "github:afeiship/rake-git"

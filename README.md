@@ -17,8 +17,13 @@ npm install
 npm link
 ```
 
+## usage
+```shell
+tss-cli upload --path=tucloud/assets/tss-cli-test2
+```
+
 
 ## cmds
-| api        | type | description                |
-| ---------- | ---- | -------------------------- |
-| tss-upload | -    | Upload dirs in current dir. |
+| api    | type    | description                                                   |
+| ------ | ------- | ------------------------------------------------------------- |
+| upload | path(p) | Set default upload path.(default:tucloud/assets/tss-cli-test) |
