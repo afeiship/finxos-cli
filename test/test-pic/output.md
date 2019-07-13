@@ -1,0 +1,9 @@
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/phone.png
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/position.png
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/search.png
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/pic1/phone.png
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/pic1/position.png
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/pic2/phone.png
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/pic2/position.png
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/pic1/pic2/phone.png
+https://tsscdn.finxos.com/tucloud/assets/tss-cli-test/pic1/pic2/position.png
