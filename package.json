@@ -23,10 +23,13 @@
   "dependencies": {
     "app-root-path": "^2.2.1",
     "arg": "^4.1.0",
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.3",
     "globby": "^10.0.1",
     "ipic-tss-uploader": "git+ssh://git@gitlab.finxos.com:tu-editor/ipic-tss-uploader.git",
     "listr": "^0.14.3",
     "next-js-core2": "github:afeiship/next-js-core2",
+    "next-node-exec": "github:afeiship/next-node-exec",
     "require-dir": "^1.2.0",
     "yargs": "^13.2.4"
   },
