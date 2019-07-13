@@ -23,7 +23,7 @@ tss-cli upload --path=tucloud/assets/tss-cli-test2
 ```
 
 
-## cmds
+## apis
 | api    | type    | description                                                   |
 | ------ | ------- | ------------------------------------------------------------- |
 | upload | path(p) | Set default remote path.(default:tucloud/assets/tss-cli-test) |
