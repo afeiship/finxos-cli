@@ -23,8 +23,7 @@ npm link
 tss-cli upload --path=tucloud/assets/tss-cli-test2
 
 # upgrade:
-tss-cli upgrade --path=/Users/feizheng/github/finxos-cli 
-# cd /Users/feizheng/github/finxos-cli && tss-cli
+tss-cli upgrade
 ```
 
 
@@ -33,4 +32,4 @@ tss-cli upgrade --path=/Users/feizheng/github/finxos-cli
 | ------- | ------- | ------------------------------------------------------------- |
 | upload  | path(p) | Set default remote path.(default:tucloud/assets/tss-cli-test) |
 |         | cwd(c)  | Set default local path.(default: current path)                |
-| upgrade | path(p) | Upgrade your tss-cli (default: current path)                  |
+| upgrade | -       | Upgrade your tss-cli (default: current path)                  |
