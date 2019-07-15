@@ -32,4 +32,4 @@ tss-cli upgrade
 | ------- | ------- | ------------------------------------------------------------- |
 | upload  | path(p) | Set default remote path.(default:tucloud/assets/tss-cli-test) |
 |         | cwd(c)  | Set default local path.(default: current path)                |
-| upgrade | -       | Upgrade your tss-cli (default: current path)                  |
+| upgrade | -       | Upgrade your tss-cli.                                         |
