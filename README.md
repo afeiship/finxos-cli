@@ -28,8 +28,9 @@ tss-cli upgrade
 
 
 ## apis
-| api     | type    | description                                                   |
-| ------- | ------- | ------------------------------------------------------------- |
-| upload  | path(p) | Set default remote path.(default:tucloud/assets/tss-cli-test) |
-|         | cwd(c)  | Set default local path.(default: current path)                |
-| upgrade | -       | Upgrade your tss-cli.                                         |
+| api     | type         | description                                                   |
+| ------- | ------------ | ------------------------------------------------------------- |
+| upload  | path(p)      | Set default remote path.(default:tucloud/assets/tss-cli-test) |
+|         | cwd(c)       | Set default local path.(default: current path)                |
+|         | recursive(r) | Check if need recursive(default: false)                       |
+| upgrade | -            | Upgrade your tss-cli.                                         |
