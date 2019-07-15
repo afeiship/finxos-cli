@@ -21,6 +21,7 @@ npm link
 ```shell
 # upload:
 tss-cli upload --path=tucloud/assets/tss-cli-test2
+tss-cli upload --path=tucloud/assets/tss-cli-test2 --r
 
 # upgrade:
 tss-cli upgrade
